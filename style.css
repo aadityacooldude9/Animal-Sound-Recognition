@@ -1,0 +1,28 @@
+body{
+font-family:'Courier New', Courier, monospace;
+background: rgb(209, 207, 184);
+}
+.header_div{
+background: darkkhaki;
+}
+.header_div label{
+color: brown;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+#start_button{
+margin-top: 20px;
+width: 130px;
+letter-spacing: 3px;
+}
+.copy_right_footer{
+position: fixed;
+color: darkkhaki;
+bottom: 0;
+width: 100%;
+font-size: 18px;
+background: white;
+line-height: 3;
+text-shadow: 5px 5px 5px rgb(118, 118, 118);
+}
